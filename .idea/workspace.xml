@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157e8284-036a-42e9-a7ea-32a4e9d4e6b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,29 +29,29 @@
         <counts>
           <entry key="json" value="1" />
           <entry key="log" value="1" />
-          <entry key="py" value="89" />
+          <entry key="py" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="89" />
+          <entry key="Python" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="12" />
           <entry key="json" value="92" />
-          <entry key="py" value="7910" />
-          <entry key="txt" value="24" />
+          <entry key="py" value="8015" />
+          <entry key="txt" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="92" />
-          <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="7922" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="Python" value="8027" />
         </counts>
       </usages-collector>
     </session>
@@ -60,14 +61,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="224">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
               <folding>
                 <element signature="e#1#14#0" expanded="true" />
-                <marker date="1541622546086" expanded="true" signature="665:670" ph="..." />
-                <marker date="1541622546086" expanded="true" signature="680:751" ph="..." />
-                <marker date="1541622546086" expanded="true" signature="826:831" ph="..." />
+                <marker date="1541624959239" expanded="true" signature="743:748" ph="..." />
+                <marker date="1541624959239" expanded="true" signature="758:829" ph="..." />
+                <marker date="1541624959239" expanded="true" signature="904:909" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -199,28 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_del_group.py">
-    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Repository\python_training\fixture\application.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test_del_group.py ">
     <configuration name="test_add_group" type="PythonConfigurationType" factoryName="Python">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,7 +246,22 @@
       <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="py.test in test_delgroup.py " type="tests" factoryName="py.test" temporary="true">
+    <configuration name="py.test in test_del_group.py " type="tests" factoryName="py.test" temporary="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Repository\python_training\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--browser\u003dchrome&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_del_group.py&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for С:/Repository/python_training/test/test_del_group.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +272,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;--browser\u003dchrome&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_del_group.py&quot;" />
+      <option name="_new_target" value="&quot;С:/Repository/python_training/test/test_del_group.py&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -293,7 +297,7 @@
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Repository\python_training\env\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
@@ -319,19 +323,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.test_add_group" />
-      <item itemvalue="Python.application" />
       <item itemvalue="Python tests.pytest in test_add_group.py" />
-      <item itemvalue="Python tests.py.test in test_delgroup.py " />
+      <item itemvalue="Python tests.py.test in test_del_group.py " />
       <item itemvalue="Python tests.pytest in Test_addressbook.py" />
+      <item itemvalue="Python tests.pytest for С:/Repository/python_training/test/test_del_group.py" />
       <item itemvalue="Python tests.pytest in test_del_group.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_del_group.py" />
-        <item itemvalue="Python tests.py.test in test_delgroup.py " />
         <item itemvalue="Python tests.pytest in test_add_group.py" />
+        <item itemvalue="Python tests.pytest in test_del_group.py" />
+        <item itemvalue="Python tests.pytest for С:/Repository/python_training/test/test_del_group.py" />
+        <item itemvalue="Python tests.py.test in test_del_group.py " />
         <item itemvalue="Python tests.pytest in Test_addressbook.py" />
-        <item itemvalue="Python.application" />
       </list>
     </recent_temporary>
   </component>
@@ -352,15 +356,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_del_group_py - 2018.10.24 at 23h 19m 46s.xml">
-      <configuration name="pytest in test_del_group.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_Test_addressbook_py - 2018.10.28 at 22h 02m 39s.xml">
-      <configuration name="pytest in Test_addressbook.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_add_group_py - 2018.10.29 at 22h 22m 32s.xml">
-      <configuration name="pytest in test_add_group.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_add_group_py - 2018.10.29 at 22h 26m 11s.xml">
       <configuration name="pytest in test_add_group.py" configurationId="tests" />
     </history-entry>
@@ -382,6 +377,15 @@
     <history-entry file="pytest_in_test_del_group_py - 2018.10.29 at 23h 22m 23s.xml">
       <configuration name="pytest in test_del_group.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_test_del_group_py - 2018.11.07 at 23h 40m 15s.xml">
+      <configuration name="pytest in test_del_group.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_del_group_py - 2018.11.08 at 00h 00m 41s.xml">
+      <configuration name="pytest in test_del_group.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_add_group_py - 2018.11.08 at 00h 00m 50s.xml">
+      <configuration name="pytest in test_add_group.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -394,9 +398,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49766356" visible="true" weight="0.15272497" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49766356" visible="true" weight="0.10709759" />
       <window_info id="Structure" order="2" sideWeight="0.50233644" side_tool="true" weight="0.13244614" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32921812" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5006337" side_tool="true" weight="0.32921812" />
@@ -506,13 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test.phones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -580,15 +578,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="224">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
           <folding>
             <element signature="e#1#14#0" expanded="true" />
-            <marker date="1541622546086" expanded="true" signature="665:670" ph="..." />
-            <marker date="1541622546086" expanded="true" signature="680:751" ph="..." />
-            <marker date="1541622546086" expanded="true" signature="826:831" ph="..." />
+            <marker date="1541624959239" expanded="true" signature="743:748" ph="..." />
+            <marker date="1541624959239" expanded="true" signature="758:829" ph="..." />
+            <marker date="1541624959239" expanded="true" signature="904:909" ph="..." />
           </folding>
         </state>
       </provider>
