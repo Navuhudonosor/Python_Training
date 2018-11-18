@@ -31,7 +31,7 @@ def app(request):
 
 
 @pytest.fixture(scope="session")
- def db(request):
+def db(request):
     db_config = load_config(request.config.getoption("--target"))['db']
     dbfixture = DbFixture(host=db_config['host'], name=db_config['name'], user=db_config['user'], password=db_config['password'])
     def fin():
@@ -62,7 +62,7 @@ def pytest_addoption(parser):
 def pytest_generate_tests(metafunc):
     for fixture in metafunc.fixturenames:
         if fixture.startswitch("data_"):
-            testdata = load_fromm_module(fixture[5:])
+            testdata = load_from_module(fixture[5:])
             metafunc.parametrize(fixture, testdata, ids=[str(x) for x in testdata])
         elif fixture.startswitch("json_"):
             testdata = load_from_json(fixture[5:])

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157e8284-036a-42e9-a7ea-32a4e9d4e6b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_db_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_db_connection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_del_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_del_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixture/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/db.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +31,14 @@
         <counts>
           <entry key="json" value="7" />
           <entry key="log" value="1" />
-          <entry key="py" value="109" />
+          <entry key="py" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="109" />
+          <entry key="Python" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -46,7 +46,7 @@
           <entry key="Python Console" value="12" />
           <entry key="dummy" value="2" />
           <entry key="json" value="195" />
-          <entry key="py" value="11204" />
+          <entry key="py" value="11459" />
           <entry key="txt" value="56" />
         </counts>
       </usages-collector>
@@ -54,53 +54,30 @@
         <counts>
           <entry key="JSON" value="195" />
           <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="11216" />
+          <entry key="Python" value="11471" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixture/db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <folding>
+                <element signature="e#1#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
+        <entry file="file://$PROJECT_DIR$/check_db_connection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="e#1#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="e#1#14#0" expanded="true" />
-                <marker date="1542542414955" expanded="true" signature="422:425" ph="..." />
-                <marker date="1542542414955" expanded="true" signature="1116:1179" ph="..." />
-                <marker date="1542542414955" expanded="true" signature="1195:1198" ph="..." />
-                <marker date="1542542414955" expanded="true" signature="1263:1268" ph="..." />
-                <marker date="1542542414955" expanded="true" signature="1278:1349" ph="..." />
-                <marker date="1542542414955" expanded="true" signature="1516:1521" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fixture/group.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-              <folding>
-                <marker date="1542314288240" expanded="true" signature="52:53" ph="..." />
-                <marker date="1542314288240" expanded="true" signature="1981:3044" ph="..." />
-                <marker date="1542314288240" expanded="true" signature="2637:3044" ph="..." />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -146,15 +123,15 @@
         <option value="$PROJECT_DIR$/test/test_phones.py" />
         <option value="$PROJECT_DIR$/data/groups.py" />
         <option value="$PROJECT_DIR$/generator/group.py" />
-        <option value="$PROJECT_DIR$/check_db_connection.py" />
         <option value="$PROJECT_DIR$/target.json" />
         <option value="$PROJECT_DIR$/test/test_db_matches_ui.py" />
-        <option value="$PROJECT_DIR$/fixture/db.py" />
         <option value="$PROJECT_DIR$/test/test_add_group.py" />
         <option value="$PROJECT_DIR$/fixture/group.py" />
         <option value="$USER_HOME$/Desktop/ПИТОН - тестирование Ord_InsNewOrder/Ord_InsNewOrder.py" />
-        <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/test/test_del_group.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/fixture/db.py" />
+        <option value="$PROJECT_DIR$/check_db_connection.py" />
       </list>
     </option>
   </component>
@@ -235,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_del_group.py">
+  <component name="RunManager" selected="Python.check_db_connection">
     <configuration name="check_db_connection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -362,15 +339,15 @@
     <list>
       <item itemvalue="Python.test_add_group" />
       <item itemvalue="Python.group" />
+      <item itemvalue="Python.check_db_connection" />
       <item itemvalue="Python tests.pytest in test_add_group.py" />
       <item itemvalue="Python tests.pytest in test_del_group.py" />
-      <item itemvalue="Python.check_db_connection" />
       <item itemvalue="Python tests.pytest in test_db_matches_ui.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_db_matches_ui.py" />
         <item itemvalue="Python.check_db_connection" />
+        <item itemvalue="Python tests.pytest in test_db_matches_ui.py" />
         <item itemvalue="Python.group" />
         <item itemvalue="Python tests.pytest in test_add_group.py" />
         <item itemvalue="Python tests.pytest in test_del_group.py" />
@@ -436,9 +413,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49766356" visible="true" weight="0.04942966" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49766356" visible="true" weight="0.11406844" />
       <window_info id="Structure" order="2" sideWeight="0.50233644" side_tool="true" weight="0.13244614" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32921812" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50126743" side_tool="true" weight="0.37997258" />
@@ -446,7 +424,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32921812" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49873257" weight="0.37997258" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49873257" visible="true" weight="0.37997258" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3978052" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -620,20 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/check_db_connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_db_matches_ui.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -655,6 +619,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fixture/group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -669,27 +643,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="-524">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#1#14#0" expanded="true" />
-            <marker date="1542542414955" expanded="true" signature="422:425" ph="..." />
-            <marker date="1542542414955" expanded="true" signature="1116:1179" ph="..." />
-            <marker date="1542542414955" expanded="true" signature="1195:1198" ph="..." />
-            <marker date="1542542414955" expanded="true" signature="1263:1268" ph="..." />
-            <marker date="1542542414955" expanded="true" signature="1278:1349" ph="..." />
-            <marker date="1542542414955" expanded="true" signature="1516:1521" ph="..." />
+            <marker date="1542545113527" expanded="true" signature="422:425" ph="..." />
+            <marker date="1542545113527" expanded="true" signature="1115:1174" ph="..." />
+            <marker date="1542545113527" expanded="true" signature="1194:1197" ph="..." />
+            <marker date="1542545113527" expanded="true" signature="1262:1267" ph="..." />
+            <marker date="1542545113527" expanded="true" signature="1277:1348" ph="..." />
+            <marker date="1542545113527" expanded="true" signature="1515:1520" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
+    <entry file="file://$PROJECT_DIR$/fixture/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding>
-            <element signature="e#1#30#0" expanded="true" />
+            <element signature="e#1#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_db_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
